@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XSProfiler.Wpf", "XSProfiler.Wpf\XSProfiler.Wpf.csproj", "{38B20F8E-B4B9-4E3D-8395-9FACEC1B605D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KProfiler", "KProfiler\KProfiler.csproj", "{4D1AC00D-0F8B-4EB6-A944-6A80DE93ED40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B20F8E-B4B9-4E3D-8395-9FACEC1B605D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B20F8E-B4B9-4E3D-8395-9FACEC1B605D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B20F8E-B4B9-4E3D-8395-9FACEC1B605D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B20F8E-B4B9-4E3D-8395-9FACEC1B605D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D1AC00D-0F8B-4EB6-A944-6A80DE93ED40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D1AC00D-0F8B-4EB6-A944-6A80DE93ED40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D1AC00D-0F8B-4EB6-A944-6A80DE93ED40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D1AC00D-0F8B-4EB6-A944-6A80DE93ED40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76BF15E4-DB90-413A-9DBF-9F2D65064ECA}
+	EndGlobalSection
+EndGlobal
